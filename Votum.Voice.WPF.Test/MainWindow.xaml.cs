@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Votum.Voice
+namespace Votum.Voice.WPF.Test
 {
     public partial class MainWindow : Window
     {
