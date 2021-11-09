@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Votum.Voice
+namespace Votum.Voice.Views
 {
     public partial class MainWindow : Window
     {

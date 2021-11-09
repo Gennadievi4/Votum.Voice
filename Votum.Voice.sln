@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votum.Voice", "Votum.Voice\Votum.Voice.csproj", "{C7E07B81-0E05-4B16-A7A0-D1E86AE34701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votum.Voice.Styles", "Votum.Voice.Styles\Votum.Voice.Styles.csproj", "{83DB0E2F-EABE-4579-BEA9-7E8FC5193040}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E64E5C7F-62A8-474F-A874-50557D57D4F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votum.Voice.Console.Test", "Votum.Voice.Console.Test\Votum.Voice.Console.Test.csproj", "{120E1C4E-B8FC-4CD6-878A-C6490393710C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votum.Voice.WPF.Test", "Votum.Voice.WPF.Test\Votum.Voice.WPF.Test.csproj", "{B8CC1F9B-9A47-4DFD-BB1B-99BE9BA7E5ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votum.Voice.Styles", "Votum.Voice.Styles\Votum.Voice.Styles.csproj", "{ABA1B09B-F84B-46C9-ACB3-215CC0985226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		{C7E07B81-0E05-4B16-A7A0-D1E86AE34701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E07B81-0E05-4B16-A7A0-D1E86AE34701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E07B81-0E05-4B16-A7A0-D1E86AE34701}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83DB0E2F-EABE-4579-BEA9-7E8FC5193040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83DB0E2F-EABE-4579-BEA9-7E8FC5193040}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83DB0E2F-EABE-4579-BEA9-7E8FC5193040}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83DB0E2F-EABE-4579-BEA9-7E8FC5193040}.Release|Any CPU.Build.0 = Release|Any CPU
 		{120E1C4E-B8FC-4CD6-878A-C6490393710C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{120E1C4E-B8FC-4CD6-878A-C6490393710C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{120E1C4E-B8FC-4CD6-878A-C6490393710C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,6 +31,10 @@ Global
 		{B8CC1F9B-9A47-4DFD-BB1B-99BE9BA7E5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8CC1F9B-9A47-4DFD-BB1B-99BE9BA7E5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8CC1F9B-9A47-4DFD-BB1B-99BE9BA7E5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA1B09B-F84B-46C9-ACB3-215CC0985226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA1B09B-F84B-46C9-ACB3-215CC0985226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA1B09B-F84B-46C9-ACB3-215CC0985226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA1B09B-F84B-46C9-ACB3-215CC0985226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
